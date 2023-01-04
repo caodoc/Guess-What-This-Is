@@ -88,22 +88,44 @@ body
 
 .pos-1 
 {
-	grid-area: 4 / 30 / 14 / 40;                  /*ah yes beautiful spot*/
+	grid-area: 4 / 30 / 14 / 40; 
+	max-width: 90%;
+	max-height: 90%;
 }
 
 .pos-2 
 {
-	grid-area: 40 / 3 / 70 / 12;                 /*ah yes beautiful spot*/
+	grid-area: 40 / 3 / 70 / 12;
+	max-width: 100%;
+	max-height: 100%;
 }
 
 .pos-3 
 {
- 	grid-area: 37 / 39 / 48 / 47;                /*ah yes beautiful spot*/
+ 	grid-area: 37 / 39 / 48 / 47;
+	 max-width: 100%;
+	 max-height: 100%;
 }
 
 .pos-4 
 {
-	grid-area: 5 / 5 / 16 / 10;                  /*ah yes beautiful spot*/
+	grid-area: 5 / 5 / 16 / 10;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.pos-5 
+{
+	grid-area: 35 / 60 / 16 / 42;
+	max-width: 70%;
+	max-height: 70%;
+}
+
+.pos-6 
+{
+	grid-area: 1 / 18 / 14 / 25;
+	max-width: 80%;
+	max-height: 80%;
 }
 
 /* Page Loader */
