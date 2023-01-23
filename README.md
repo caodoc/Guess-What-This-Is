@@ -1,18 +1,6 @@
 <div align="center">
-    <p>
-        <h3> <strong> Guess What This Is </strong> </h3>
-    </p>
+    <h3> <strong> Archived </strong> </h3>
 </div>
-
-<hr>
-
-<img align="right" src="./img/readme_logo.gif">
-
-<p align="left">
-    Nhắn gửi crush rằng bạn thích họ:3 </br>
-    Được tham khảo từ <a href="https://github.com/ngoctienTNT/WomenDay">đây</a>. </br>
-    <a href="https://sussypage.vercel.app"> <strong> Link </strong> </a> </br>
-</p>
 
 <hr>
 
